@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "typeorm": "^0.3.20"
+  },
+  "devDependencies": {
+    "@nestjs/typeorm": "^11.0.0",
+    "@types/node": "^22.13.1"
+  }
+}
