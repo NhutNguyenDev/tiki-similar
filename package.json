@@ -7,10 +7,14 @@
     "passport": "^0.7.0",
     "passport-jwt": "^4.0.1",
     "passport-local": "^1.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
     "typeorm": "^0.3.20"
   },
   "devDependencies": {
     "@nestjs/typeorm": "^11.0.0",
-    "@types/node": "^22.13.1"
+    "@types/node": "^22.13.1",
+    "@types/react": "^19.0.8",
+    "@types/react-dom": "^19.0.3"
   }
 }
